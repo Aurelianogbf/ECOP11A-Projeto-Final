@@ -15,4 +15,4 @@ descreva o projeto
 
 ## Diagrama em blocos
 
-[link da imagem](legenda)
+<img src="link" />
